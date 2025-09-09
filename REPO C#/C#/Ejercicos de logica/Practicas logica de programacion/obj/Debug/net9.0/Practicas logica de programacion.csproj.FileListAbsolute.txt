@@ -1,0 +1,14 @@
+/Volumes/MacOS/MAC Rodrigo/Documents/C#/Ejercicos de logica/Practicas logica de programacion/bin/Debug/net9.0/Practicas logica de programacion
+/Volumes/MacOS/MAC Rodrigo/Documents/C#/Ejercicos de logica/Practicas logica de programacion/bin/Debug/net9.0/Practicas logica de programacion.deps.json
+/Volumes/MacOS/MAC Rodrigo/Documents/C#/Ejercicos de logica/Practicas logica de programacion/bin/Debug/net9.0/Practicas logica de programacion.runtimeconfig.json
+/Volumes/MacOS/MAC Rodrigo/Documents/C#/Ejercicos de logica/Practicas logica de programacion/bin/Debug/net9.0/Practicas logica de programacion.dll
+/Volumes/MacOS/MAC Rodrigo/Documents/C#/Ejercicos de logica/Practicas logica de programacion/bin/Debug/net9.0/Practicas logica de programacion.pdb
+/Volumes/MacOS/MAC Rodrigo/Documents/C#/Ejercicos de logica/Practicas logica de programacion/obj/Debug/net9.0/Practicas logica de programacion.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/MacOS/MAC Rodrigo/Documents/C#/Ejercicos de logica/Practicas logica de programacion/obj/Debug/net9.0/Practicas logica de programacion.AssemblyInfoInputs.cache
+/Volumes/MacOS/MAC Rodrigo/Documents/C#/Ejercicos de logica/Practicas logica de programacion/obj/Debug/net9.0/Practicas logica de programacion.AssemblyInfo.cs
+/Volumes/MacOS/MAC Rodrigo/Documents/C#/Ejercicos de logica/Practicas logica de programacion/obj/Debug/net9.0/Practicas logica de programacion.csproj.CoreCompileInputs.cache
+/Volumes/MacOS/MAC Rodrigo/Documents/C#/Ejercicos de logica/Practicas logica de programacion/obj/Debug/net9.0/Practicas logica de programacion.dll
+/Volumes/MacOS/MAC Rodrigo/Documents/C#/Ejercicos de logica/Practicas logica de programacion/obj/Debug/net9.0/refint/Practicas logica de programacion.dll
+/Volumes/MacOS/MAC Rodrigo/Documents/C#/Ejercicos de logica/Practicas logica de programacion/obj/Debug/net9.0/Practicas logica de programacion.pdb
+/Volumes/MacOS/MAC Rodrigo/Documents/C#/Ejercicos de logica/Practicas logica de programacion/obj/Debug/net9.0/Practicas logica de programacion.genruntimeconfig.cache
+/Volumes/MacOS/MAC Rodrigo/Documents/C#/Ejercicos de logica/Practicas logica de programacion/obj/Debug/net9.0/ref/Practicas logica de programacion.dll

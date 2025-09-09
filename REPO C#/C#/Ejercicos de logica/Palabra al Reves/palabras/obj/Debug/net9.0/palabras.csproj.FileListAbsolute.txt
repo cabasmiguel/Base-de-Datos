@@ -1,0 +1,14 @@
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/Palabra al Reves/palabras/bin/Debug/net9.0/palabras
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/Palabra al Reves/palabras/bin/Debug/net9.0/palabras.deps.json
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/Palabra al Reves/palabras/bin/Debug/net9.0/palabras.runtimeconfig.json
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/Palabra al Reves/palabras/bin/Debug/net9.0/palabras.dll
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/Palabra al Reves/palabras/bin/Debug/net9.0/palabras.pdb
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/Palabra al Reves/palabras/obj/Debug/net9.0/palabras.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/Palabra al Reves/palabras/obj/Debug/net9.0/palabras.AssemblyInfoInputs.cache
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/Palabra al Reves/palabras/obj/Debug/net9.0/palabras.AssemblyInfo.cs
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/Palabra al Reves/palabras/obj/Debug/net9.0/palabras.csproj.CoreCompileInputs.cache
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/Palabra al Reves/palabras/obj/Debug/net9.0/palabras.dll
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/Palabra al Reves/palabras/obj/Debug/net9.0/refint/palabras.dll
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/Palabra al Reves/palabras/obj/Debug/net9.0/palabras.pdb
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/Palabra al Reves/palabras/obj/Debug/net9.0/palabras.genruntimeconfig.cache
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/Palabra al Reves/palabras/obj/Debug/net9.0/ref/palabras.dll

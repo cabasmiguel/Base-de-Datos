@@ -1,0 +1,14 @@
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/ParesInpares2.0/paresImpares/bin/Debug/net9.0/paresImpares
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/ParesInpares2.0/paresImpares/bin/Debug/net9.0/paresImpares.deps.json
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/ParesInpares2.0/paresImpares/bin/Debug/net9.0/paresImpares.runtimeconfig.json
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/ParesInpares2.0/paresImpares/bin/Debug/net9.0/paresImpares.dll
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/ParesInpares2.0/paresImpares/bin/Debug/net9.0/paresImpares.pdb
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/ParesInpares2.0/paresImpares/obj/Debug/net9.0/paresImpares.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/ParesInpares2.0/paresImpares/obj/Debug/net9.0/paresImpares.AssemblyInfoInputs.cache
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/ParesInpares2.0/paresImpares/obj/Debug/net9.0/paresImpares.AssemblyInfo.cs
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/ParesInpares2.0/paresImpares/obj/Debug/net9.0/paresImpares.csproj.CoreCompileInputs.cache
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/ParesInpares2.0/paresImpares/obj/Debug/net9.0/paresImpares.dll
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/ParesInpares2.0/paresImpares/obj/Debug/net9.0/refint/paresImpares.dll
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/ParesInpares2.0/paresImpares/obj/Debug/net9.0/paresImpares.pdb
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/ParesInpares2.0/paresImpares/obj/Debug/net9.0/paresImpares.genruntimeconfig.cache
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/ParesInpares2.0/paresImpares/obj/Debug/net9.0/ref/paresImpares.dll

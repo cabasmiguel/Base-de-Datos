@@ -1,0 +1,14 @@
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/factorial/numeroFactorial/obj/Debug/net9.0/numeroFactorial.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/factorial/numeroFactorial/obj/Debug/net9.0/numeroFactorial.AssemblyInfoInputs.cache
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/factorial/numeroFactorial/obj/Debug/net9.0/numeroFactorial.AssemblyInfo.cs
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/factorial/numeroFactorial/obj/Debug/net9.0/numeroFactorial.csproj.CoreCompileInputs.cache
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/factorial/numeroFactorial/bin/Debug/net9.0/numeroFactorial
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/factorial/numeroFactorial/bin/Debug/net9.0/numeroFactorial.deps.json
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/factorial/numeroFactorial/bin/Debug/net9.0/numeroFactorial.runtimeconfig.json
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/factorial/numeroFactorial/bin/Debug/net9.0/numeroFactorial.dll
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/factorial/numeroFactorial/bin/Debug/net9.0/numeroFactorial.pdb
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/factorial/numeroFactorial/obj/Debug/net9.0/numeroFactorial.dll
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/factorial/numeroFactorial/obj/Debug/net9.0/refint/numeroFactorial.dll
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/factorial/numeroFactorial/obj/Debug/net9.0/numeroFactorial.pdb
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/factorial/numeroFactorial/obj/Debug/net9.0/numeroFactorial.genruntimeconfig.cache
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/factorial/numeroFactorial/obj/Debug/net9.0/ref/numeroFactorial.dll
