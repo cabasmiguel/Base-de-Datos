@@ -1,0 +1,15 @@
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/Fibonacci/Fibonacci/bin/Debug/net9.0/Fibonacci
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/Fibonacci/Fibonacci/bin/Debug/net9.0/Fibonacci.deps.json
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/Fibonacci/Fibonacci/bin/Debug/net9.0/Fibonacci.runtimeconfig.json
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/Fibonacci/Fibonacci/bin/Debug/net9.0/Fibonacci.dll
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/Fibonacci/Fibonacci/bin/Debug/net9.0/Fibonacci.pdb
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/Fibonacci/Fibonacci/obj/Debug/net9.0/Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/Fibonacci/Fibonacci/obj/Debug/net9.0/Fibonacci.AssemblyInfoInputs.cache
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/Fibonacci/Fibonacci/obj/Debug/net9.0/Fibonacci.AssemblyInfo.cs
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/Fibonacci/Fibonacci/obj/Debug/net9.0/Fibonacci.csproj.CoreCompileInputs.cache
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/Fibonacci/Fibonacci/obj/Debug/net9.0/Fibonacci.sourcelink.json
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/Fibonacci/Fibonacci/obj/Debug/net9.0/Fibonacci.dll
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/Fibonacci/Fibonacci/obj/Debug/net9.0/refint/Fibonacci.dll
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/Fibonacci/Fibonacci/obj/Debug/net9.0/Fibonacci.pdb
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/Fibonacci/Fibonacci/obj/Debug/net9.0/Fibonacci.genruntimeconfig.cache
+/Volumes/MacOS/MAC Rodrigo/Documents/REPO C#/C#/Ejercicos de logica/Fibonacci/Fibonacci/obj/Debug/net9.0/ref/Fibonacci.dll
